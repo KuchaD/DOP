@@ -1,0 +1,6 @@
+@DOP.Sample_HostAddress = http://localhost:5119
+
+GET {{DOP.Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
